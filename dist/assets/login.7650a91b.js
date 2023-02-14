@@ -1,0 +1,1 @@
+import{u as o,o as e,d as t,e as n,F as s}from"./vendor.f30a8528.js";const r={setup(){const e=o();return{toHome:()=>{e.push({name:"home"})}}}},u=n("p",null,"index",-1);r.render=function(o,r,a,m,l,d){return e(),t(s,null,[u,n("button",{onClick:r[0]||(r[0]=(...o)=>m.toHome&&m.toHome(...o))},"toHome")],64)};export{r as default};

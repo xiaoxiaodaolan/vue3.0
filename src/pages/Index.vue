@@ -1,0 +1,12 @@
+<template>
+	<h1>欢迎登录</h1>
+</template>
+
+<script>
+	export default{
+		name:"Index"
+	}
+</script>
+
+<style>
+</style>
